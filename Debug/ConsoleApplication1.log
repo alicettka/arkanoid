@@ -1,0 +1,10 @@
+﻿  GameObject.cpp
+C:\Users\gomel\OneDrive\Рабочий стол\cursach\arkanoid\ConsoleApplication1\GameObject.cpp(97,27): error C2039: "clamp": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\tuple(24,1): message : см. объявление "std"
+C:\Users\gomel\OneDrive\Рабочий стол\cursach\arkanoid\ConsoleApplication1\GameObject.cpp(97,32): error C3861: clamp: идентификатор не найден
+C:\Users\gomel\OneDrive\Рабочий стол\cursach\arkanoid\ConsoleApplication1\GameObject.cpp(100,27): error C2039: "clamp": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\tuple(24,1): message : см. объявление "std"
+C:\Users\gomel\OneDrive\Рабочий стол\cursach\arkanoid\ConsoleApplication1\GameObject.cpp(100,32): error C3861: clamp: идентификатор не найден
+C:\Users\gomel\OneDrive\Рабочий стол\cursach\arkanoid\ConsoleApplication1\GameObject.cpp(510,21): error C2039: "clamp": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\tuple(24,1): message : см. объявление "std"
+C:\Users\gomel\OneDrive\Рабочий стол\cursach\arkanoid\ConsoleApplication1\GameObject.cpp(510,26): error C3861: clamp: идентификатор не найден
